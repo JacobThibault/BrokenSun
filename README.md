@@ -1,3 +1,3 @@
 # WhenDayBreaksGame
-survie or die. u choose, but u ma not rly die lol haha
-- authors: Jacob Thibault and John Kudela
+A short survival game about living in a post-daybreak world (referencing SCP-001 Proposal "When Day Breaks")
+Created by John Kudela and Jacob Thibault
